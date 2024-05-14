@@ -1,4 +1,4 @@
-<img src="https://github.com/mohammad-javad-akbari/translator-flutter/blob/main/youtube-translator-screenshot.jpg" height="500" >
+<img src="https://github.com/mohammad-javad-akbari/translator-flutter/blob/main/youtube-translator-screenshot.jpg" height="400" >
 
 
 
