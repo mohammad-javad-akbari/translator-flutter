@@ -1,3 +1,9 @@
+![alt text](youtube-translator-screenshot.jpg)
+
+
+
+
+
 Flutter Translator App
 This repository houses the source code for a Flutter application designed to translate text between a wide range of languages.
 
